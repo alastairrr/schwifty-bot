@@ -16,6 +16,7 @@ masterofallscience get schwifty
 ```
 ![Embed](https://github.com/user-attachments/assets/5da74240-ebae-4727-b885-6b84514da176)
 
+why no slash commands? cuz they suck xd
 
 ## Acknowledgements
 
