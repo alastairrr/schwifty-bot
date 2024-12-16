@@ -9,6 +9,11 @@ To create one, type the following in your channel:
 ```
 <meme-prefix> <quote-to-search>
 ```
+
+Example:
+```
+masterofallscience get schwifty
+```
 ![Embed](https://github.com/user-attachments/assets/5da74240-ebae-4727-b885-6b84514da176)
 
 
